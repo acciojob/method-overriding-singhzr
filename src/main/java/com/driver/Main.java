@@ -22,5 +22,5 @@ public class Main {
         // Task 5: Call the overridden method from obj of class B
         String result = objB.meth();
         System.out.println(result);
-    }
+    }//
 }
